@@ -1,0 +1,302 @@
+{
+    "status": true,
+    "msg": "Data found.",
+    "data": {
+      "result": "Royal Challengers Bangalore won by 4 wkts",
+      "scorecard": {
+        "1": {
+          "team": {
+            "name": "Rajasthan Royals",
+            "flag": "http://15.206.247.12/webroot/img/teams/1931610030_team.jpg",
+            "score": 169,
+            "wicket": 3,
+            "over": "20",
+            "extras": "8 {wd - 4, nb - 1, lb - 3, b - 0}"
+          },
+          "batsman": [
+            {
+              "name": "Jos Buttler",
+              "run": 70,
+              "ball": 47,
+              "fours": 0,
+              "sixes": 6,
+              "strike_rate": "148.94",
+              "out_by": ""
+            },
+            {
+              "name": "Yashasvi Jaiswal",
+              "run": 4,
+              "ball": 6,
+              "fours": 0,
+              "sixes": 0,
+              "strike_rate": "66.67",
+              "out_by": "b & b DJ Willey"
+            },
+            {
+              "name": "Devdutt Padikkal",
+              "run": 37,
+              "ball": 29,
+              "fours": 2,
+              "sixes": 2,
+              "strike_rate": "127.59",
+              "out_by": "c V Kohli b HV Patel"
+            },
+            {
+              "name": "Sanju Samson",
+              "run": 8,
+              "ball": 8,
+              "fours": 0,
+              "sixes": 1,
+              "strike_rate": "100.00",
+              "out_by": "c PWH de Silva b PWH de Silva"
+            },
+            {
+              "name": "Shimron Hetmyer",
+              "run": 42,
+              "ball": 31,
+              "fours": 4,
+              "sixes": 2,
+              "strike_rate": "135.48",
+              "out_by": ""
+            }
+          ],
+          "bolwer": [
+            {
+              "name": "Mohammed Siraj",
+              "over": "4",
+              "maiden": 0,
+              "run": 43,
+              "wicket": 0,
+              "economy": "10.75",
+              "dot_ball": 8
+            },
+            {
+              "name": "David Willey",
+              "over": "4",
+              "maiden": 0,
+              "run": 29,
+              "wicket": 1,
+              "economy": "7.25",
+              "dot_ball": 8
+            },
+            {
+              "name": "Akash Deep",
+              "over": "4",
+              "maiden": 0,
+              "run": 44,
+              "wicket": 0,
+              "economy": "11.00",
+              "dot_ball": 7
+            },
+            {
+              "name": "Dhananjaya de Silva",
+              "over": "4",
+              "maiden": 0,
+              "run": 32,
+              "wicket": 1,
+              "economy": "8.00",
+              "dot_ball": 10
+            },
+            {
+              "name": "Harshal Patel",
+              "over": "4",
+              "maiden": 0,
+              "run": 18,
+              "wicket": 1,
+              "economy": "4.50",
+              "dot_ball": 11
+            }
+          ],
+          "fallwicket": [
+            {
+              "player": "YBK Jaiswal",
+              "score": 6,
+              "wicket": "1",
+              "over": "1.5"
+            },
+            {
+              "player": "D Padikkal",
+              "score": 76,
+              "wicket": "2",
+              "over": "9.6"
+            },
+            {
+              "player": "SV Samson",
+              "score": 86,
+              "wicket": "3",
+              "over": "11.4"
+            }
+          ]
+        },
+        "2": {
+          "team": {
+            "name": "Royal Challengers Bangalore",
+            "flag": "http://15.206.247.12/webroot/img/teams/847563281_team.png",
+            "score": 173,
+            "wicket": 6,
+            "over": "19.1",
+            "extras": "10 {wd - 6, nb - 1, lb - 3, b - 0}"
+          },
+          "batsman": [
+            {
+              "name": "Faf du Plessis",
+              "run": 29,
+              "ball": 20,
+              "fours": 5,
+              "sixes": 0,
+              "strike_rate": "145.00",
+              "out_by": "c TA Boult b YS Chahal"
+            },
+            {
+              "name": "Anuj Rawat",
+              "run": 26,
+              "ball": 25,
+              "fours": 4,
+              "sixes": 0,
+              "strike_rate": "104.00",
+              "out_by": "c SV Samson b NA Saini"
+            },
+            {
+              "name": "Virat Kohli",
+              "run": 5,
+              "ball": 6,
+              "fours": 0,
+              "sixes": 0,
+              "strike_rate": "83.33",
+              "out_by": "Run Out"
+            },
+            {
+              "name": "David Willey",
+              "run": 0,
+              "ball": 2,
+              "fours": 0,
+              "sixes": 0,
+              "strike_rate": "0.00",
+              "out_by": "b & b YS Chahal"
+            },
+            {
+              "name": "Sherfane Rutherford",
+              "run": 5,
+              "ball": 10,
+              "fours": 0,
+              "sixes": 0,
+              "strike_rate": "50.00",
+              "out_by": "c NA Saini b TA Boult"
+            },
+            {
+              "name": "Shahbaz Ahmed",
+              "run": 45,
+              "ball": 26,
+              "fours": 4,
+              "sixes": 3,
+              "strike_rate": "173.08",
+              "out_by": "b & b TA Boult"
+            },
+            {
+              "name": "Dinesh Karthik",
+              "run": 44,
+              "ball": 23,
+              "fours": 7,
+              "sixes": 1,
+              "strike_rate": "191.30",
+              "out_by": ""
+            },
+            {
+              "name": "Harshal Patel",
+              "run": 9,
+              "ball": 4,
+              "fours": 0,
+              "sixes": 1,
+              "strike_rate": "225.00",
+              "out_by": ""
+            }
+          ],
+          "bolwer": [
+            {
+              "name": "Trent Boult",
+              "over": "4",
+              "maiden": 0,
+              "run": 34,
+              "wicket": 2,
+              "economy": "8.50",
+              "dot_ball": 9
+            },
+            {
+              "name": "Prasidh Krishna",
+              "over": "4",
+              "maiden": 0,
+              "run": 40,
+              "wicket": 0,
+              "economy": "10.00",
+              "dot_ball": 9
+            },
+            {
+              "name": "Ravichandran Ashwin",
+              "over": "4",
+              "maiden": 0,
+              "run": 39,
+              "wicket": 0,
+              "economy": "9.75",
+              "dot_ball": 10
+            },
+            {
+              "name": "Yuzvendra Chahal",
+              "over": "4",
+              "maiden": 0,
+              "run": 15,
+              "wicket": 2,
+              "economy": "3.75",
+              "dot_ball": 12
+            },
+            {
+              "name": "Navdeep Saini",
+              "over": "3",
+              "maiden": 0,
+              "run": 36,
+              "wicket": 1,
+              "economy": "12.00",
+              "dot_ball": 2
+            }
+          ],
+          "fallwicket": [
+            {
+              "player": "F du Plessis",
+              "score": 55,
+              "wicket": "1",
+              "over": "6.6"
+            },
+            {
+              "player": "Anuj Rawat",
+              "score": 61,
+              "wicket": "2",
+              "over": "7.6"
+            },
+            {
+              "player": "V Kohli",
+              "score": 62,
+              "wicket": "3",
+              "over": "8.4"
+            },
+            {
+              "player": "DJ Willey",
+              "score": 62,
+              "wicket": "4",
+              "over": "8.5"
+            },
+            {
+              "player": "SE Rutherford",
+              "score": 87,
+              "wicket": "5",
+              "over": "12.3"
+            },
+            {
+              "player": "Shahbaz Ahmed",
+              "score": 154,
+              "wicket": "6",
+              "over": "17.5"
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479540928224",
+    "project_id": "fairbetsios",
+    "storage_bucket": "fairbetsios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479540928224:android:12f35486919432ae6dfa85",
+        "android_client_info": {
+          "package_name": "com.fairbets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479540928224-mpmes79bfqv59kginukpr6j8datpgt9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyizrYRpGwIvd-CUUgtPSR9gNk5kyA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479540928224-mpmes79bfqv59kginukpr6j8datpgt9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

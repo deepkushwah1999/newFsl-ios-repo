@@ -1,0 +1,290 @@
+{
+    "status": true,
+    "msg": "Data found.",
+    "data": {
+      "team_a": {
+        "name": "Rajasthan Royals",
+        "short_name": "RR",
+        "flag": "http://15.206.247.12/webroot/img/teams/1931610030_team.jpg",
+        "player": [
+          {
+            "player_id": 2334,
+            "name": "Prasidh Krishna",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/1451009695_player.jpg"
+          },
+          {
+            "player_id": 2337,
+            "name": "Yuzvendra Chahal",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/574870437_player.jpg"
+          },
+          {
+            "player_id": 2706,
+            "name": "Rassie van der Dussen",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/860725672_player.jpg"
+          },
+          {
+            "player_id": 2727,
+            "name": "Daryl Mitchell",
+            "play_role": "Bowling Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/1036380184_player.jpg"
+          },
+          {
+            "player_id": 2776,
+            "name": "Sanju Samson",
+            "play_role": "WK-Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1239688772_player.jpg"
+          },
+          {
+            "player_id": 2787,
+            "name": "Ravichandran Ashwin",
+            "play_role": "Bowling Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/65290752_player.jpg"
+          },
+          {
+            "player_id": 3004,
+            "name": "Karun Nair",
+            "play_role": "Batsman",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Karun Nair"
+          },
+          {
+            "player_id": 3009,
+            "name": "James Neesham",
+            "play_role": "Batting Allrounder",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=James Neesham"
+          },
+          {
+            "player_id": 3010,
+            "name": "Anunay Singh",
+            "play_role": "Bowling Allrounder",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Anunay Singh"
+          },
+          {
+            "player_id": 3012,
+            "name": "Dhruv Jurel",
+            "play_role": "WK-Batsman",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Dhruv Jurel"
+          },
+          {
+            "player_id": 3013,
+            "name": "Shubham Garhwal",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Shubham Garhwal"
+          },
+          {
+            "player_id": 3014,
+            "name": "Kuldip Yadav",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Kuldip Yadav"
+          },
+          {
+            "player_id": 3017,
+            "name": "Kuldeep Sen",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Kuldeep Sen"
+          },
+          {
+            "player_id": 3018,
+            "name": "Obed McCoy",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Obed McCoy"
+          },
+          {
+            "player_id": 3019,
+            "name": "Tejas Baroka",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Tejas Baroka"
+          },
+          {
+            "player_id": 3020,
+            "name": "KC Cariappa",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=KC Cariappa"
+          },
+          {
+            "player_id": 3131,
+            "name": "Jos Buttler",
+            "play_role": "WK-Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/285553373_player.jpg"
+          },
+          {
+            "player_id": 3132,
+            "name": "Devdutt Padikkal",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1972017939_player.jpg"
+          },
+          {
+            "player_id": 3133,
+            "name": "Yashasvi Jaiswal",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1518800295_player.jpg"
+          },
+          {
+            "player_id": 3134,
+            "name": "Shimron Hetmyer",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/402373105_player.jpg"
+          },
+          {
+            "player_id": 3135,
+            "name": "Riyan Parag",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1317507120_player.jpg"
+          },
+          {
+            "player_id": 3136,
+            "name": "Nathan Coulter-Nile",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/1172831018_player.jpg"
+          },
+          {
+            "player_id": 3137,
+            "name": "Trent Boult",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/1372154238_player.jpg"
+          },
+          {
+            "player_id": 3153,
+            "name": "Navdeep Saini",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/353789415_player.jpg"
+          }
+        ]
+      },
+      "team_b": {
+        "name": "Royal Challengers Bangalore",
+        "short_name": "RCB",
+        "flag": "http://15.206.247.12/webroot/img/teams/847563281_team.png",
+        "player": [
+          {
+            "player_id": 2078,
+            "name": "Faf du Plessis",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1101389702_player.jpg"
+          },
+          {
+            "player_id": 2148,
+            "name": "David Willey",
+            "play_role": "Bowling Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/1909282689_player.jpg"
+          },
+          {
+            "player_id": 2234,
+            "name": "Sherfane Rutherford",
+            "play_role": "Batting Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/1564952596_player.jpg"
+          },
+          {
+            "player_id": 2336,
+            "name": "Mohammed Siraj",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/248484006_player.jpg"
+          },
+          {
+            "player_id": 2339,
+            "name": "Virat Kohli",
+            "play_role": "Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/898278451_player.jpg"
+          },
+          {
+            "player_id": 2593,
+            "name": "Glenn Maxwell",
+            "play_role": "Batting Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/1560547692_player.jpg"
+          },
+          {
+            "player_id": 2599,
+            "name": "Josh Hazlewood",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/657849266_player.jpg"
+          },
+          {
+            "player_id": 2698,
+            "name": "Harshal Patel",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/2081554488_player.jpg"
+          },
+          {
+            "player_id": 2949,
+            "name": "Suyash Prabhudessai",
+            "play_role": "Batsman",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Suyash Prabhudessai"
+          },
+          {
+            "player_id": 2950,
+            "name": "Mahipal Lomror",
+            "play_role": "Batting Allrounder",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Mahipal Lomror"
+          },
+          {
+            "player_id": 2951,
+            "name": "Aneeshwar Gautam",
+            "play_role": "Batting Allrounder",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Aneeshwar Gautam"
+          },
+          {
+            "player_id": 2953,
+            "name": "Wanindu Hasaranga",
+            "play_role": "Bowling Allrounder",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Wanindu Hasaranga"
+          },
+          {
+            "player_id": 2956,
+            "name": "Finn Allen",
+            "play_role": "WK-Batsman",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Finn Allen"
+          },
+          {
+            "player_id": 2957,
+            "name": "Luvnith Sisodia",
+            "play_role": "WK-Batsman",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Luvnith Sisodia"
+          },
+          {
+            "player_id": 2960,
+            "name": "Chama V Milind",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Chama V Milind"
+          },
+          {
+            "player_id": 2961,
+            "name": "Karn Sharma",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Karn Sharma"
+          },
+          {
+            "player_id": 2962,
+            "name": "Siddarth Kaul",
+            "play_role": "Bowler",
+            "image": "https://ui-avatars.com/api/?background=efefef&color=333333&name=Siddarth Kaul"
+          },
+          {
+            "player_id": 3049,
+            "name": "Anuj Rawat",
+            "play_role": "WK-Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1029455633_player.jpg"
+          },
+          {
+            "player_id": 3050,
+            "name": "Dinesh Karthik",
+            "play_role": "WK-Batsman",
+            "image": "http://15.206.247.12/webroot/img/players/1512545175_player.jpg"
+          },
+          {
+            "player_id": 3051,
+            "name": "Shahbaz Ahmed",
+            "play_role": "Bowling Allrounder",
+            "image": "http://15.206.247.12/webroot/img/players/587304870_player.jpg"
+          },
+          {
+            "player_id": 3052,
+            "name": "Akash Deep",
+            "play_role": "Bowler",
+            "image": "http://15.206.247.12/webroot/img/players/701542180_player.jpg"
+          }
+        ]
+      }
+    }
+  }

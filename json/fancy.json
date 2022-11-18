@@ -1,0 +1,3342 @@
+{
+    "status": true,
+    "msg": "Data found.",
+    "data": [
+      {
+        "fancy": "Match 1st ball run(RR vs RCB)adv",
+        "back_size": "150",
+        "back_price": "1",
+        "lay_size": "250",
+        "lay_price": "1",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Match 1st over run(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Match 1st over Dot ball(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "6 over runs RR(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "37",
+        "lay_size": "100",
+        "lay_price": "36",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "6 over runs RCB(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "48",
+        "lay_size": "100",
+        "lay_price": "46",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "20 over runs RR(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "166",
+        "lay_size": "100",
+        "lay_price": "165",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "20 over runs RCB(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "176",
+        "lay_size": "100",
+        "lay_price": "174",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st 2 wkt runs RR(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "96",
+        "lay_size": "110",
+        "lay_price": "96",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st 2 wkt runs RCB(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "55",
+        "lay_size": "110",
+        "lay_price": "55",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st 3 wkt runs RR(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "108",
+        "lay_size": "110",
+        "lay_price": "108",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st 3 wkt runs RCB(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "87",
+        "lay_size": "110",
+        "lay_price": "87",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Fall of 1st wkt RR(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "30",
+        "lay_size": "110",
+        "lay_price": "30",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Fall of 1st wkt RCB(RR vs RCB)adv",
+        "back_size": "95",
+        "back_price": "73",
+        "lay_size": "115",
+        "lay_price": "73",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "J Buttler run(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "57",
+        "lay_size": "110",
+        "lay_price": "57",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Y Jaiswal run(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "24",
+        "lay_size": "110",
+        "lay_price": "24",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "F du Plessis run(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "53",
+        "lay_size": "110",
+        "lay_price": "53",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "A Rawat run(RR vs RCB)adv",
+        "back_size": "105",
+        "back_price": "41",
+        "lay_size": "125",
+        "lay_price": "41",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "J Buttler Boundaries(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Y Jaiswal Boundaries(RR vs RCB)adv",
+        "back_size": "85",
+        "back_price": "3",
+        "lay_size": "115",
+        "lay_price": "3",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "F du Plessis Boundaries(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "A Rawat Boundaries(RR vs RCB)adv",
+        "back_size": "85",
+        "back_price": "6",
+        "lay_size": "115",
+        "lay_price": "6",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st wkt pship Boundaries RR(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st wkt pship Boundaries RCB(RR vs RCB)adv",
+        "back_size": "85",
+        "back_price": "12",
+        "lay_size": "115",
+        "lay_price": "12",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st wkt lost to RR balls(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "28",
+        "lay_size": "120",
+        "lay_price": "28",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st wkt lost to RCB balls(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "55",
+        "lay_size": "110",
+        "lay_price": "55",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "How many balls face by J Buttler(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "42",
+        "lay_size": "120",
+        "lay_price": "42",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "How many balls face by Y Jaiswal(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "21",
+        "lay_size": "110",
+        "lay_price": "21",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "How many balls face by F du Plessis(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "39",
+        "lay_size": "110",
+        "lay_price": "39",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "How many balls face by  A Rawat(RR vs RCB)adv",
+        "back_size": "90",
+        "back_price": "36",
+        "lay_size": "110",
+        "lay_price": "36",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Fours(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "30",
+        "lay_size": "100",
+        "lay_price": "28",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Sixes(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Boundaries(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "42",
+        "lay_size": "100",
+        "lay_price": "39",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Wkts(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "13",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Wides(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "10",
+        "lay_size": "100",
+        "lay_price": "9",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Extras(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "19",
+        "lay_size": "100",
+        "lay_price": "17",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Caught Outs(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "10",
+        "lay_size": "100",
+        "lay_price": "9",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Bowled(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match LBW(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "2",
+        "lay_size": "100",
+        "lay_price": "1",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Total match Fifties(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Highest Scoring over in match(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "21",
+        "lay_size": "100",
+        "lay_price": "20",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "Top batsman runs in match(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "70",
+        "lay_size": "100",
+        "lay_price": "68",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "3 wkt or more by bowler in match(RR vs RCB)adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 05:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Wkts RR adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Extras RR adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Dot balls RR adv",
+        "back_size": "100",
+        "back_price": "26",
+        "lay_size": "100",
+        "lay_price": "24",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total 1 runs RR adv",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "100",
+        "lay_price": "20",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total 2 runs RR adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Fours RR adv",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Sixes RR adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Wkts RR adv",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Extras RR adv",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Dot balls RR adv",
+        "back_size": "100",
+        "back_price": "15",
+        "lay_size": "100",
+        "lay_price": "13",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total 1 runs RR adv",
+        "back_size": "100",
+        "back_price": "28",
+        "lay_size": "100",
+        "lay_price": "26",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total 2 runs RR adv",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Fours RR adv",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Sixes RR adv",
+        "back_size": "80",
+        "back_price": "4",
+        "lay_size": "120",
+        "lay_price": "4",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Wkts RR adv",
+        "back_size": "100",
+        "back_price": "7",
+        "lay_size": "100",
+        "lay_price": "6",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Extras RR adv",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Dot balls RR adv",
+        "back_size": "100",
+        "back_price": "39",
+        "lay_size": "100",
+        "lay_price": "37",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total 1 runs RR adv",
+        "back_size": "100",
+        "back_price": "48",
+        "lay_size": "100",
+        "lay_price": "46",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total 2 runs RR adv",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Fours RR adv",
+        "back_size": "100",
+        "back_price": "15",
+        "lay_size": "100",
+        "lay_price": "14",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Sixes RR adv",
+        "back_size": "80",
+        "back_price": "7",
+        "lay_size": "120",
+        "lay_price": "7",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Wkts RCB adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Extras RCB adv",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Dot balls RCB adv",
+        "back_size": "100",
+        "back_price": "27",
+        "lay_size": "100",
+        "lay_price": "25",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total 1 runs RCB adv",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "100",
+        "lay_price": "20",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total 2 runs RCB adv",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Fours RCB adv",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 10 overs Total Sixes RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Wkts RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Extras RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Dot balls RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total 1 runs RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total 2 runs RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Fours RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 11 to 20 overs Total Sixes RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Wkts RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Extras RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Dot balls RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total 1 runs RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total 2 runs RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Fours RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "1st Inn 0 to 20 overs Total Sixes RCB adv",
+        "back_size": "0",
+        "back_price": "0",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "04-Apr 06:30 AM"
+      },
+      {
+        "fancy": "T Boult 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "P Krishna 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "R Ashwin 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "Y Chahal 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "D Willey 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "M Siraj 2 over run adv",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "13",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "W Hasaranga 2 over run adv",
+        "back_size": "100",
+        "back_price": "20",
+        "lay_size": "100",
+        "lay_price": "19",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "H Patel 2 over run adv",
+        "back_size": "100",
+        "back_price": "7",
+        "lay_size": "100",
+        "lay_price": "6",
+        "created": "05-Apr 08:00 AM"
+      },
+      {
+        "fancy": "0.1 ball run RR",
+        "back_size": "120",
+        "back_price": "1",
+        "lay_size": "170",
+        "lay_price": "1",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "1.3 over run RR",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "Only 1 over run RR",
+        "back_size": "85",
+        "back_price": "6",
+        "lay_size": "115",
+        "lay_price": "6",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "4 over run RR",
+        "back_size": "100",
+        "back_price": "26",
+        "lay_size": "100",
+        "lay_price": "25",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "20 over run bhav RR",
+        "back_size": "55",
+        "back_price": "165",
+        "lay_size": "80",
+        "lay_price": "165",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "20 over run bhav RR 2",
+        "back_size": "15",
+        "back_price": "155",
+        "lay_size": "25",
+        "lay_price": "155",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "20 over run bhav RR 3",
+        "back_size": "20",
+        "back_price": "160",
+        "lay_size": "25",
+        "lay_price": "160",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "Only 1 over dot ball RR",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "Fall of 1st wkt run bhav RR",
+        "back_size": "5",
+        "back_price": "7",
+        "lay_size": "8",
+        "lay_price": "7",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "J Buttler run bhav",
+        "back_size": "4",
+        "back_price": "35",
+        "lay_size": "7",
+        "lay_price": "35",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "Y Jaiswal run bhav",
+        "back_size": "6",
+        "back_price": "5",
+        "lay_size": "9",
+        "lay_price": "5",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "10 over run RR",
+        "back_size": "100",
+        "back_price": "78",
+        "lay_size": "100",
+        "lay_price": "77",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "20 over run RR 2",
+        "back_size": "100",
+        "back_price": "166",
+        "lay_size": "100",
+        "lay_price": "165",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "Only 2 over dot ball RR",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 01:50 AM"
+      },
+      {
+        "fancy": "6 over run RR 2",
+        "back_size": "100",
+        "back_price": "37",
+        "lay_size": "100",
+        "lay_price": "36",
+        "created": "05-Apr 01:58 AM"
+      },
+      {
+        "fancy": "Only 2 over run RR",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 01:58 AM"
+      },
+      {
+        "fancy": "6 over run bhav RR",
+        "back_size": "100",
+        "back_price": "37",
+        "lay_size": "100",
+        "lay_price": "36",
+        "created": "05-Apr 01:58 AM"
+      },
+      {
+        "fancy": "0.2 ball run RR",
+        "back_size": "100",
+        "back_price": "1",
+        "lay_size": "150",
+        "lay_price": "1",
+        "created": "05-Apr 02:00 AM"
+      },
+      {
+        "fancy": "0.3 ball run RR",
+        "back_size": "80",
+        "back_price": "1",
+        "lay_size": "120",
+        "lay_price": "1",
+        "created": "05-Apr 02:01 AM"
+      },
+      {
+        "fancy": "0.4 ball run RR",
+        "back_size": "130",
+        "back_price": "2",
+        "lay_size": "200",
+        "lay_price": "2",
+        "created": "05-Apr 02:01 AM"
+      },
+      {
+        "fancy": "0.5 ball run RR",
+        "back_size": "120",
+        "back_price": "2",
+        "lay_size": "170",
+        "lay_price": "2",
+        "created": "05-Apr 02:02 AM"
+      },
+      {
+        "fancy": "0.6 ball run RR",
+        "back_size": "70",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 02:03 AM"
+      },
+      {
+        "fancy": "2 over run RR",
+        "back_size": "150",
+        "back_price": "7",
+        "lay_size": "250",
+        "lay_price": "7",
+        "created": "05-Apr 02:04 AM"
+      },
+      {
+        "fancy": "1.1 ball run RR",
+        "back_size": "90",
+        "back_price": "3",
+        "lay_size": "140",
+        "lay_price": "3",
+        "created": "05-Apr 02:04 AM"
+      },
+      {
+        "fancy": "Only 3 over dot ball RR",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 02:04 AM"
+      },
+      {
+        "fancy": "Only 3 over run RR",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 02:04 AM"
+      },
+      {
+        "fancy": "1.2 ball run RR",
+        "back_size": "70",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 02:05 AM"
+      },
+      {
+        "fancy": "1.3 ball run RR",
+        "back_size": "60",
+        "back_price": "5",
+        "lay_size": "90",
+        "lay_price": "5",
+        "created": "05-Apr 02:06 AM"
+      },
+      {
+        "fancy": "1.4 ball run RR",
+        "back_size": "60",
+        "back_price": "7",
+        "lay_size": "90",
+        "lay_price": "7",
+        "created": "05-Apr 02:07 AM"
+      },
+      {
+        "fancy": "2.3 over run RR",
+        "back_size": "120",
+        "back_price": "9",
+        "lay_size": "170",
+        "lay_price": "9",
+        "created": "05-Apr 02:07 AM"
+      },
+      {
+        "fancy": "1.5 ball run RR",
+        "back_size": "50",
+        "back_price": "7",
+        "lay_size": "80",
+        "lay_price": "7",
+        "created": "05-Apr 02:07 AM"
+      },
+      {
+        "fancy": "1.6 ball run RR",
+        "back_size": "140",
+        "back_price": "7",
+        "lay_size": "225",
+        "lay_price": "7",
+        "created": "05-Apr 02:08 AM"
+      },
+      {
+        "fancy": "3 over run RR",
+        "back_size": "100",
+        "back_price": "18",
+        "lay_size": "100",
+        "lay_price": "17",
+        "created": "05-Apr 02:10 AM"
+      },
+      {
+        "fancy": "2.1 ball run RR",
+        "back_size": "60",
+        "back_price": "8",
+        "lay_size": "90",
+        "lay_price": "8",
+        "created": "05-Apr 02:10 AM"
+      },
+      {
+        "fancy": "Only 4 over dot ball RR",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 02:10 AM"
+      },
+      {
+        "fancy": "Only 4 over run RR",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 02:10 AM"
+      },
+      {
+        "fancy": "D Padikkal run:",
+        "back_size": "90",
+        "back_price": "54",
+        "lay_size": "110",
+        "lay_price": "54",
+        "created": "05-Apr 02:11 AM"
+      },
+      {
+        "fancy": "2.2 ball run RR",
+        "back_size": "55",
+        "back_price": "8",
+        "lay_size": "75",
+        "lay_price": "8",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "D Padikkal run bhav",
+        "back_size": "7",
+        "back_price": "38",
+        "lay_size": "11",
+        "lay_price": "38",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "2.3 ball run RR",
+        "back_size": "130",
+        "back_price": "9",
+        "lay_size": "200",
+        "lay_price": "9",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "Fall of 2nd wkt run bhav RR",
+        "back_size": "7",
+        "back_price": "77",
+        "lay_size": "11",
+        "lay_price": "77",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "D Padikkal boundaries",
+        "back_size": "100",
+        "back_price": "7",
+        "lay_size": "100",
+        "lay_price": "6",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "2nd wkt pship boundaries RR:",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 02:12 AM"
+      },
+      {
+        "fancy": "How many balls face by D Padikkal",
+        "back_size": "100",
+        "back_price": "41",
+        "lay_size": "120",
+        "lay_price": "41",
+        "created": "05-Apr 02:13 AM"
+      },
+      {
+        "fancy": "Fall of 4th wkt RR",
+        "back_size": "90",
+        "back_price": "109",
+        "lay_size": "110",
+        "lay_price": "109",
+        "created": "05-Apr 02:13 AM"
+      },
+      {
+        "fancy": "2.4 ball run RR",
+        "back_size": "100",
+        "back_price": "15",
+        "lay_size": "150",
+        "lay_price": "15",
+        "created": "05-Apr 02:13 AM"
+      },
+      {
+        "fancy": "3.3 over run RR",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "100",
+        "lay_price": "21",
+        "created": "05-Apr 02:14 AM"
+      },
+      {
+        "fancy": "2nd wkt lost to RR balls",
+        "back_size": "100",
+        "back_price": "73",
+        "lay_size": "120",
+        "lay_price": "73",
+        "created": "05-Apr 02:14 AM"
+      },
+      {
+        "fancy": "2.5 ball run RR",
+        "back_size": "80",
+        "back_price": "17",
+        "lay_size": "120",
+        "lay_price": "17",
+        "created": "05-Apr 02:15 AM"
+      },
+      {
+        "fancy": "2.6 ball run RR",
+        "back_size": "60",
+        "back_price": "17",
+        "lay_size": "90",
+        "lay_price": "17",
+        "created": "05-Apr 02:15 AM"
+      },
+      {
+        "fancy": "3.1 ball run RR",
+        "back_size": "80",
+        "back_price": "18",
+        "lay_size": "120",
+        "lay_price": "18",
+        "created": "05-Apr 02:16 AM"
+      },
+      {
+        "fancy": "Only 5 over dot ball RR",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 02:16 AM"
+      },
+      {
+        "fancy": "5 over run RR",
+        "back_size": "100",
+        "back_price": "35",
+        "lay_size": "100",
+        "lay_price": "34",
+        "created": "05-Apr 02:16 AM"
+      },
+      {
+        "fancy": "5.3 over run RR",
+        "back_size": "100",
+        "back_price": "34",
+        "lay_size": "100",
+        "lay_price": "33",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "5.1 ball run RR",
+        "back_size": "40",
+        "back_price": "31",
+        "lay_size": "60",
+        "lay_price": "31",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "Only 7 over run RR",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "8 over run RR",
+        "back_size": "100",
+        "back_price": "57",
+        "lay_size": "100",
+        "lay_price": "56",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "Only 7 over dot ball RR",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "7 over run RR",
+        "back_size": "100",
+        "back_price": "47",
+        "lay_size": "100",
+        "lay_price": "46",
+        "created": "05-Apr 02:27 AM"
+      },
+      {
+        "fancy": "5.2 ball run RR",
+        "back_size": "55",
+        "back_price": "32",
+        "lay_size": "75",
+        "lay_price": "32",
+        "created": "05-Apr 02:28 AM"
+      },
+      {
+        "fancy": "D Willey 3 over run",
+        "back_size": "100",
+        "back_price": "18",
+        "lay_size": "100",
+        "lay_price": "17",
+        "created": "05-Apr 02:28 AM"
+      },
+      {
+        "fancy": "5.3 ball run RR",
+        "back_size": "40",
+        "back_price": "33",
+        "lay_size": "60",
+        "lay_price": "33",
+        "created": "05-Apr 02:29 AM"
+      },
+      {
+        "fancy": "5.4 ball run RR",
+        "back_size": "45",
+        "back_price": "34",
+        "lay_size": "65",
+        "lay_price": "34",
+        "created": "05-Apr 02:29 AM"
+      },
+      {
+        "fancy": "6.3 over run RR",
+        "back_size": "100",
+        "back_price": "38",
+        "lay_size": "100",
+        "lay_price": "37",
+        "created": "05-Apr 02:30 AM"
+      },
+      {
+        "fancy": "5.5 ball run RR",
+        "back_size": "35",
+        "back_price": "35",
+        "lay_size": "55",
+        "lay_price": "35",
+        "created": "05-Apr 02:30 AM"
+      },
+      {
+        "fancy": "5.6 ball run RR",
+        "back_size": "40",
+        "back_price": "36",
+        "lay_size": "60",
+        "lay_price": "36",
+        "created": "05-Apr 02:30 AM"
+      },
+      {
+        "fancy": "Only 8 over dot ball RR",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 02:31 AM"
+      },
+      {
+        "fancy": "6.1 ball run RR",
+        "back_size": "35",
+        "back_price": "36",
+        "lay_size": "55",
+        "lay_price": "36",
+        "created": "05-Apr 02:31 AM"
+      },
+      {
+        "fancy": "Only 8 over run RR",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 02:32 AM"
+      },
+      {
+        "fancy": "10 over run bhav RR",
+        "back_size": "100",
+        "back_price": "78",
+        "lay_size": "100",
+        "lay_price": "77",
+        "created": "05-Apr 02:32 AM"
+      },
+      {
+        "fancy": "6.2 ball run RR",
+        "back_size": "40",
+        "back_price": "37",
+        "lay_size": "60",
+        "lay_price": "37",
+        "created": "05-Apr 02:33 AM"
+      },
+      {
+        "fancy": "A Deep 2 over run",
+        "back_size": "100",
+        "back_price": "17",
+        "lay_size": "100",
+        "lay_price": "16",
+        "created": "05-Apr 02:33 AM"
+      },
+      {
+        "fancy": "6.3 ball run RR",
+        "back_size": "35",
+        "back_price": "37",
+        "lay_size": "55",
+        "lay_price": "37",
+        "created": "05-Apr 02:33 AM"
+      },
+      {
+        "fancy": "6.4 ball run RR",
+        "back_size": "30",
+        "back_price": "38",
+        "lay_size": "50",
+        "lay_price": "38",
+        "created": "05-Apr 02:34 AM"
+      },
+      {
+        "fancy": "7.3 over run RR",
+        "back_size": "100",
+        "back_price": "51",
+        "lay_size": "100",
+        "lay_price": "50",
+        "created": "05-Apr 02:34 AM"
+      },
+      {
+        "fancy": "6.5 ball run RR",
+        "back_size": "30",
+        "back_price": "40",
+        "lay_size": "50",
+        "lay_price": "40",
+        "created": "05-Apr 02:35 AM"
+      },
+      {
+        "fancy": "6.6 ball run RR",
+        "back_size": "30",
+        "back_price": "46",
+        "lay_size": "50",
+        "lay_price": "46",
+        "created": "05-Apr 02:36 AM"
+      },
+      {
+        "fancy": "Only 9 over dot ball RR",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 02:37 AM"
+      },
+      {
+        "fancy": "7.1 ball run RR",
+        "back_size": "30",
+        "back_price": "48",
+        "lay_size": "50",
+        "lay_price": "48",
+        "created": "05-Apr 02:37 AM"
+      },
+      {
+        "fancy": "9 over run RR",
+        "back_size": "100",
+        "back_price": "69",
+        "lay_size": "100",
+        "lay_price": "68",
+        "created": "05-Apr 02:37 AM"
+      },
+      {
+        "fancy": "Only 9 over run RR",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 02:37 AM"
+      },
+      {
+        "fancy": "15 over run RR",
+        "back_size": "100",
+        "back_price": "107",
+        "lay_size": "100",
+        "lay_price": "106",
+        "created": "05-Apr 02:38 AM"
+      },
+      {
+        "fancy": "7.2 ball run RR",
+        "back_size": "25",
+        "back_price": "49",
+        "lay_size": "40",
+        "lay_price": "49",
+        "created": "05-Apr 02:38 AM"
+      },
+      {
+        "fancy": "7.3 ball run RR",
+        "back_size": "30",
+        "back_price": "50",
+        "lay_size": "45",
+        "lay_price": "50",
+        "created": "05-Apr 02:39 AM"
+      },
+      {
+        "fancy": "7.4 ball run RR",
+        "back_size": "30",
+        "back_price": "54",
+        "lay_size": "45",
+        "lay_price": "54",
+        "created": "05-Apr 02:40 AM"
+      },
+      {
+        "fancy": "8.3 over run RR",
+        "back_size": "100",
+        "back_price": "66",
+        "lay_size": "100",
+        "lay_price": "65",
+        "created": "05-Apr 02:40 AM"
+      },
+      {
+        "fancy": "7.5 ball run RR",
+        "back_size": "25",
+        "back_price": "55",
+        "lay_size": "40",
+        "lay_price": "55",
+        "created": "05-Apr 02:41 AM"
+      },
+      {
+        "fancy": "7.6 ball run RR",
+        "back_size": "30",
+        "back_price": "56",
+        "lay_size": "45",
+        "lay_price": "56",
+        "created": "05-Apr 02:41 AM"
+      },
+      {
+        "fancy": "Only 10 over dot ball RR",
+        "back_size": "100",
+        "back_price": "2",
+        "lay_size": "100",
+        "lay_price": "1",
+        "created": "05-Apr 02:42 AM"
+      },
+      {
+        "fancy": "8.1 ball run RR",
+        "back_size": "40",
+        "back_price": "62",
+        "lay_size": "60",
+        "lay_price": "62",
+        "created": "05-Apr 02:42 AM"
+      },
+      {
+        "fancy": "Only 10 over run RR",
+        "back_size": "85",
+        "back_price": "9",
+        "lay_size": "115",
+        "lay_price": "9",
+        "created": "05-Apr 02:43 AM"
+      },
+      {
+        "fancy": "8.2 ball run RR",
+        "back_size": "40",
+        "back_price": "63",
+        "lay_size": "60",
+        "lay_price": "63",
+        "created": "05-Apr 02:43 AM"
+      },
+      {
+        "fancy": "12 over run RR",
+        "back_size": "100",
+        "back_price": "88",
+        "lay_size": "100",
+        "lay_price": "87",
+        "created": "05-Apr 02:44 AM"
+      },
+      {
+        "fancy": "8.3 ball run RR",
+        "back_size": "40",
+        "back_price": "65",
+        "lay_size": "60",
+        "lay_price": "65",
+        "created": "05-Apr 02:44 AM"
+      },
+      {
+        "fancy": "8.4 ball run RR",
+        "back_size": "30",
+        "back_price": "67",
+        "lay_size": "50",
+        "lay_price": "67",
+        "created": "05-Apr 02:44 AM"
+      },
+      {
+        "fancy": "9.3 over run RR",
+        "back_size": "100",
+        "back_price": "75",
+        "lay_size": "100",
+        "lay_price": "74",
+        "created": "05-Apr 02:45 AM"
+      },
+      {
+        "fancy": "8.5 ball run RR",
+        "back_size": "30",
+        "back_price": "68",
+        "lay_size": "50",
+        "lay_price": "68",
+        "created": "05-Apr 02:45 AM"
+      },
+      {
+        "fancy": "8.6 ball run RR",
+        "back_size": "30",
+        "back_price": "68",
+        "lay_size": "50",
+        "lay_price": "68",
+        "created": "05-Apr 02:46 AM"
+      },
+      {
+        "fancy": "9.1 ball run RR",
+        "back_size": "30",
+        "back_price": "74",
+        "lay_size": "45",
+        "lay_price": "74",
+        "created": "05-Apr 02:46 AM"
+      },
+      {
+        "fancy": "Only 11 over run RR",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 02:47 AM"
+      },
+      {
+        "fancy": "11 over run RR",
+        "back_size": "100",
+        "back_price": "81",
+        "lay_size": "100",
+        "lay_price": "80",
+        "created": "05-Apr 02:47 AM"
+      },
+      {
+        "fancy": "9.2 ball run RR",
+        "back_size": "25",
+        "back_price": "74",
+        "lay_size": "40",
+        "lay_price": "74",
+        "created": "05-Apr 02:50 AM"
+      },
+      {
+        "fancy": "9.3 ball run RR",
+        "back_size": "30",
+        "back_price": "74",
+        "lay_size": "50",
+        "lay_price": "74",
+        "created": "05-Apr 02:50 AM"
+      },
+      {
+        "fancy": "9.4 ball run RR",
+        "back_size": "30",
+        "back_price": "75",
+        "lay_size": "45",
+        "lay_price": "75",
+        "created": "05-Apr 02:52 AM"
+      },
+      {
+        "fancy": "10.3 over run RR",
+        "back_size": "100",
+        "back_price": "79",
+        "lay_size": "100",
+        "lay_price": "78",
+        "created": "05-Apr 02:52 AM"
+      },
+      {
+        "fancy": "9.5 ball run RR",
+        "back_size": "25",
+        "back_price": "75",
+        "lay_size": "40",
+        "lay_price": "75",
+        "created": "05-Apr 02:52 AM"
+      },
+      {
+        "fancy": "9.6 ball run RR",
+        "back_size": "30",
+        "back_price": "77",
+        "lay_size": "45",
+        "lay_price": "77",
+        "created": "05-Apr 02:53 AM"
+      },
+      {
+        "fancy": "Only 12 over run RR",
+        "back_size": "85",
+        "back_price": "8",
+        "lay_size": "115",
+        "lay_price": "8",
+        "created": "05-Apr 02:55 AM"
+      },
+      {
+        "fancy": "15 over run bhav RR",
+        "back_size": "100",
+        "back_price": "107",
+        "lay_size": "100",
+        "lay_price": "106",
+        "created": "05-Apr 02:57 AM"
+      },
+      {
+        "fancy": "3rd wkt pship boundaries RR",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 02:57 AM"
+      },
+      {
+        "fancy": "A Deep 3 over run",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "100",
+        "lay_price": "21",
+        "created": "05-Apr 02:57 AM"
+      },
+      {
+        "fancy": "S Samson run",
+        "back_size": "90",
+        "back_price": "27",
+        "lay_size": "110",
+        "lay_price": "27",
+        "created": "05-Apr 02:57 AM"
+      },
+      {
+        "fancy": "S Samson boundaries",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 02:57 AM"
+      },
+      {
+        "fancy": "Fall of 3rd wkt run bhav RR",
+        "back_size": "7",
+        "back_price": "87",
+        "lay_size": "11",
+        "lay_price": "87",
+        "created": "05-Apr 02:58 AM"
+      },
+      {
+        "fancy": "S Samson run bhav",
+        "back_size": "5",
+        "back_price": "9",
+        "lay_size": "8",
+        "lay_price": "9",
+        "created": "05-Apr 02:59 AM"
+      },
+      {
+        "fancy": "11.3 over run RR",
+        "back_size": "100",
+        "back_price": "88",
+        "lay_size": "100",
+        "lay_price": "87",
+        "created": "05-Apr 02:59 AM"
+      },
+      {
+        "fancy": "Only 13 over run RR",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 03:02 AM"
+      },
+      {
+        "fancy": "13 over run RR",
+        "back_size": "100",
+        "back_price": "90",
+        "lay_size": "100",
+        "lay_price": "89",
+        "created": "05-Apr 03:03 AM"
+      },
+      {
+        "fancy": "12.3 over run RR",
+        "back_size": "100",
+        "back_price": "90",
+        "lay_size": "100",
+        "lay_price": "89",
+        "created": "05-Apr 03:05 AM"
+      },
+      {
+        "fancy": "4th wkt pship boundaries RR",
+        "back_size": "85",
+        "back_price": "3",
+        "lay_size": "115",
+        "lay_price": "3",
+        "created": "05-Apr 03:06 AM"
+      },
+      {
+        "fancy": "S Hetmyer run",
+        "back_size": "90",
+        "back_price": "18",
+        "lay_size": "110",
+        "lay_price": "18",
+        "created": "05-Apr 03:06 AM"
+      },
+      {
+        "fancy": "S Hetmyer boundaries",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 03:07 AM"
+      },
+      {
+        "fancy": "S Hetmyer run bhav",
+        "back_size": "9",
+        "back_price": "1",
+        "lay_size": "13",
+        "lay_price": "1",
+        "created": "05-Apr 03:09 AM"
+      },
+      {
+        "fancy": "Only 14 over run RR",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 03:09 AM"
+      },
+      {
+        "fancy": "Fall of 4th wkt run bhav RR",
+        "back_size": "5",
+        "back_price": "90",
+        "lay_size": "8",
+        "lay_price": "90",
+        "created": "05-Apr 03:09 AM"
+      },
+      {
+        "fancy": "13.3 over run RR",
+        "back_size": "100",
+        "back_price": "92",
+        "lay_size": "100",
+        "lay_price": "91",
+        "created": "05-Apr 03:11 AM"
+      },
+      {
+        "fancy": "16 over run RR",
+        "back_size": "100",
+        "back_price": "109",
+        "lay_size": "100",
+        "lay_price": "108",
+        "created": "05-Apr 03:12 AM"
+      },
+      {
+        "fancy": "14 over run RR",
+        "back_size": "100",
+        "back_price": "97",
+        "lay_size": "100",
+        "lay_price": "96",
+        "created": "05-Apr 03:13 AM"
+      },
+      {
+        "fancy": "17 over run RR",
+        "back_size": "100",
+        "back_price": "119",
+        "lay_size": "100",
+        "lay_price": "118",
+        "created": "05-Apr 03:23 AM"
+      },
+      {
+        "fancy": "Only 17 over run RR",
+        "back_size": "100",
+        "back_price": "11",
+        "lay_size": "100",
+        "lay_price": "10",
+        "created": "05-Apr 03:24 AM"
+      },
+      {
+        "fancy": "15.3 over run RR",
+        "back_size": "100",
+        "back_price": "107",
+        "lay_size": "100",
+        "lay_price": "106",
+        "created": "05-Apr 03:24 AM"
+      },
+      {
+        "fancy": "16.3 over run RR",
+        "back_size": "100",
+        "back_price": "110",
+        "lay_size": "100",
+        "lay_price": "109",
+        "created": "05-Apr 03:25 AM"
+      },
+      {
+        "fancy": "M Siraj 3 over run",
+        "back_size": "100",
+        "back_price": "25",
+        "lay_size": "100",
+        "lay_price": "24",
+        "created": "05-Apr 03:27 AM"
+      },
+      {
+        "fancy": "Only 18 over run RR",
+        "back_size": "100",
+        "back_price": "12",
+        "lay_size": "100",
+        "lay_price": "11",
+        "created": "05-Apr 03:28 AM"
+      },
+      {
+        "fancy": "17.3 over run RR",
+        "back_size": "100",
+        "back_price": "122",
+        "lay_size": "100",
+        "lay_price": "121",
+        "created": "05-Apr 03:30 AM"
+      },
+      {
+        "fancy": "17.1 ball run RR",
+        "back_size": "130",
+        "back_price": "120",
+        "lay_size": "200",
+        "lay_price": "120",
+        "created": "05-Apr 03:33 AM"
+      },
+      {
+        "fancy": "18 over run RR",
+        "back_size": "100",
+        "back_price": "128",
+        "lay_size": "100",
+        "lay_price": "127",
+        "created": "05-Apr 03:33 AM"
+      },
+      {
+        "fancy": "Only 19 over run RR",
+        "back_size": "100",
+        "back_price": "13",
+        "lay_size": "100",
+        "lay_price": "12",
+        "created": "05-Apr 03:34 AM"
+      },
+      {
+        "fancy": "17.2 ball run RR",
+        "back_size": "120",
+        "back_price": "121",
+        "lay_size": "170",
+        "lay_price": "121",
+        "created": "05-Apr 03:35 AM"
+      },
+      {
+        "fancy": "17.3 ball run RR",
+        "back_size": "120",
+        "back_price": "122",
+        "lay_size": "170",
+        "lay_price": "122",
+        "created": "05-Apr 03:35 AM"
+      },
+      {
+        "fancy": "17.4 ball run RR",
+        "back_size": "120",
+        "back_price": "123",
+        "lay_size": "170",
+        "lay_price": "123",
+        "created": "05-Apr 03:36 AM"
+      },
+      {
+        "fancy": "18.3 over run RR",
+        "back_size": "100",
+        "back_price": "133",
+        "lay_size": "100",
+        "lay_price": "132",
+        "created": "05-Apr 03:36 AM"
+      },
+      {
+        "fancy": "17.5 ball run RR",
+        "back_size": "110",
+        "back_price": "124",
+        "lay_size": "160",
+        "lay_price": "124",
+        "created": "05-Apr 03:36 AM"
+      },
+      {
+        "fancy": "17.6 ball run RR",
+        "back_size": "110",
+        "back_price": "128",
+        "lay_size": "160",
+        "lay_price": "128",
+        "created": "05-Apr 03:37 AM"
+      },
+      {
+        "fancy": "19 over run RR",
+        "back_size": "100",
+        "back_price": "142",
+        "lay_size": "100",
+        "lay_price": "141",
+        "created": "05-Apr 03:38 AM"
+      },
+      {
+        "fancy": "18.1 ball run RR",
+        "back_size": "110",
+        "back_price": "129",
+        "lay_size": "160",
+        "lay_price": "129",
+        "created": "05-Apr 03:38 AM"
+      },
+      {
+        "fancy": "Only 20 over run RR",
+        "back_size": "100",
+        "back_price": "15",
+        "lay_size": "100",
+        "lay_price": "14",
+        "created": "05-Apr 03:38 AM"
+      },
+      {
+        "fancy": "18.2 ball run RR",
+        "back_size": "100",
+        "back_price": "129",
+        "lay_size": "150",
+        "lay_price": "129",
+        "created": "05-Apr 03:39 AM"
+      },
+      {
+        "fancy": "18.3 ball run RR",
+        "back_size": "100",
+        "back_price": "133",
+        "lay_size": "150",
+        "lay_price": "133",
+        "created": "05-Apr 03:40 AM"
+      },
+      {
+        "fancy": "18.4 ball run RR",
+        "back_size": "100",
+        "back_price": "135",
+        "lay_size": "150",
+        "lay_price": "135",
+        "created": "05-Apr 03:41 AM"
+      },
+      {
+        "fancy": "19.3 over run RR",
+        "back_size": "80",
+        "back_price": "149",
+        "lay_size": "130",
+        "lay_price": "149",
+        "created": "05-Apr 03:41 AM"
+      },
+      {
+        "fancy": "18.5 ball run RR",
+        "back_size": "90",
+        "back_price": "136",
+        "lay_size": "140",
+        "lay_price": "136",
+        "created": "05-Apr 03:41 AM"
+      },
+      {
+        "fancy": "18.6 ball run RR",
+        "back_size": "90",
+        "back_price": "142",
+        "lay_size": "140",
+        "lay_price": "142",
+        "created": "05-Apr 03:42 AM"
+      },
+      {
+        "fancy": "19.1 ball run RR",
+        "back_size": "80",
+        "back_price": "148",
+        "lay_size": "130",
+        "lay_price": "148",
+        "created": "05-Apr 03:43 AM"
+      },
+      {
+        "fancy": "19.2 ball run RR",
+        "back_size": "65",
+        "back_price": "150",
+        "lay_size": "100",
+        "lay_price": "150",
+        "created": "05-Apr 03:45 AM"
+      },
+      {
+        "fancy": "1 over run RCB",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 03:45 AM"
+      },
+      {
+        "fancy": "19.3 ball run RR",
+        "back_size": "70",
+        "back_price": "149",
+        "lay_size": "110",
+        "lay_price": "149",
+        "created": "05-Apr 03:46 AM"
+      },
+      {
+        "fancy": "19.4 ball run RR",
+        "back_size": "80",
+        "back_price": "162",
+        "lay_size": "130",
+        "lay_price": "162",
+        "created": "05-Apr 03:48 AM"
+      },
+      {
+        "fancy": "19.5 ball run RR",
+        "back_size": "70",
+        "back_price": "164",
+        "lay_size": "110",
+        "lay_price": "164",
+        "created": "05-Apr 03:50 AM"
+      },
+      {
+        "fancy": "19.6 ball run RR",
+        "back_size": "60",
+        "back_price": "165",
+        "lay_size": "90",
+        "lay_price": "165",
+        "created": "05-Apr 03:50 AM"
+      },
+      {
+        "fancy": "0.1 ball run RCB",
+        "back_size": "140",
+        "back_price": "1",
+        "lay_size": "225",
+        "lay_price": "1",
+        "created": "05-Apr 03:52 AM"
+      },
+      {
+        "fancy": "1.3 over run RCB",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 03:52 AM"
+      },
+      {
+        "fancy": "6 over run RCB",
+        "back_size": "100",
+        "back_price": "49",
+        "lay_size": "100",
+        "lay_price": "48",
+        "created": "05-Apr 03:53 AM"
+      },
+      {
+        "fancy": "A Rawat run bhav",
+        "back_size": "6",
+        "back_price": "27",
+        "lay_size": "9",
+        "lay_price": "27",
+        "created": "05-Apr 03:54 AM"
+      },
+      {
+        "fancy": "1st 2 wkt runs RCB",
+        "back_size": "90",
+        "back_price": "82",
+        "lay_size": "110",
+        "lay_price": "82",
+        "created": "05-Apr 03:54 AM"
+      },
+      {
+        "fancy": "1st 3 wkt runs RCB",
+        "back_size": "100",
+        "back_price": "83",
+        "lay_size": "120",
+        "lay_price": "83",
+        "created": "05-Apr 03:54 AM"
+      },
+      {
+        "fancy": "Only 1 over run RCB",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "05-Apr 03:55 AM"
+      },
+      {
+        "fancy": "4 over run RCB",
+        "back_size": "100",
+        "back_price": "31",
+        "lay_size": "100",
+        "lay_price": "30",
+        "created": "05-Apr 03:56 AM"
+      },
+      {
+        "fancy": "20 over run bhav RCB",
+        "back_size": "7",
+        "back_price": "160",
+        "lay_size": "10",
+        "lay_price": "160",
+        "created": "05-Apr 03:56 AM"
+      },
+      {
+        "fancy": "Only 1 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 03:56 AM"
+      },
+      {
+        "fancy": "Fall of 1st wkt run bhav RCB",
+        "back_size": "4",
+        "back_price": "56",
+        "lay_size": "8",
+        "lay_price": "56",
+        "created": "05-Apr 03:56 AM"
+      },
+      {
+        "fancy": "Only 2 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 03:58 AM"
+      },
+      {
+        "fancy": "F du Plessis run bhav",
+        "back_size": "5",
+        "back_price": "30",
+        "lay_size": "8",
+        "lay_price": "30",
+        "created": "05-Apr 03:58 AM"
+      },
+      {
+        "fancy": "6 over run bhav RCB",
+        "back_size": "300",
+        "back_price": "50",
+        "lay_size": "500",
+        "lay_price": "50",
+        "created": "05-Apr 04:00 AM"
+      },
+      {
+        "fancy": "6 over run RCB 2",
+        "back_size": "100",
+        "back_price": "49",
+        "lay_size": "100",
+        "lay_price": "48",
+        "created": "05-Apr 04:00 AM"
+      },
+      {
+        "fancy": "10 over run RCB",
+        "back_size": "100",
+        "back_price": "69",
+        "lay_size": "100",
+        "lay_price": "68",
+        "created": "05-Apr 04:00 AM"
+      },
+      {
+        "fancy": "T Boult 2 over run",
+        "back_size": "100",
+        "back_price": "20",
+        "lay_size": "100",
+        "lay_price": "19",
+        "created": "05-Apr 04:04 AM"
+      },
+      {
+        "fancy": "Only 2 over run RCB",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 04:05 AM"
+      },
+      {
+        "fancy": "0.2 ball run RCB",
+        "back_size": "140",
+        "back_price": "2",
+        "lay_size": "225",
+        "lay_price": "2",
+        "created": "05-Apr 04:07 AM"
+      },
+      {
+        "fancy": "0.3 ball run RCB",
+        "back_size": "120",
+        "back_price": "2",
+        "lay_size": "170",
+        "lay_price": "2",
+        "created": "05-Apr 04:08 AM"
+      },
+      {
+        "fancy": "0.4 ball run RCB",
+        "back_size": "120",
+        "back_price": "3",
+        "lay_size": "170",
+        "lay_price": "3",
+        "created": "05-Apr 04:09 AM"
+      },
+      {
+        "fancy": "0.5 ball run RCB",
+        "back_size": "90",
+        "back_price": "3",
+        "lay_size": "140",
+        "lay_price": "3",
+        "created": "05-Apr 04:09 AM"
+      },
+      {
+        "fancy": "0.6 ball run RCB",
+        "back_size": "90",
+        "back_price": "4",
+        "lay_size": "140",
+        "lay_price": "4",
+        "created": "05-Apr 04:10 AM"
+      },
+      {
+        "fancy": "1.1 ball run RCB",
+        "back_size": "80",
+        "back_price": "4",
+        "lay_size": "120",
+        "lay_price": "4",
+        "created": "05-Apr 04:10 AM"
+      },
+      {
+        "fancy": "2 over run RCB",
+        "back_size": "80",
+        "back_price": "9",
+        "lay_size": "120",
+        "lay_price": "9",
+        "created": "05-Apr 04:10 AM"
+      },
+      {
+        "fancy": "Only 3 over run RCB",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 04:11 AM"
+      },
+      {
+        "fancy": "P Krishna 2 over run",
+        "back_size": "100",
+        "back_price": "17",
+        "lay_size": "100",
+        "lay_price": "16",
+        "created": "05-Apr 04:11 AM"
+      },
+      {
+        "fancy": "Only 3 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:11 AM"
+      },
+      {
+        "fancy": "1.2 ball run RCB",
+        "back_size": "70",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 04:11 AM"
+      },
+      {
+        "fancy": "1.3 ball run RCB",
+        "back_size": "60",
+        "back_price": "4",
+        "lay_size": "90",
+        "lay_price": "4",
+        "created": "05-Apr 04:12 AM"
+      },
+      {
+        "fancy": "1.4 ball run RCB",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "150",
+        "lay_price": "5",
+        "created": "05-Apr 04:13 AM"
+      },
+      {
+        "fancy": "2.3 over run RCB",
+        "back_size": "100",
+        "back_price": "20",
+        "lay_size": "100",
+        "lay_price": "19",
+        "created": "05-Apr 04:14 AM"
+      },
+      {
+        "fancy": "1.5 ball run RCB",
+        "back_size": "80",
+        "back_price": "5",
+        "lay_size": "130",
+        "lay_price": "5",
+        "created": "05-Apr 04:14 AM"
+      },
+      {
+        "fancy": "1.6 ball run RCB",
+        "back_size": "80",
+        "back_price": "9",
+        "lay_size": "130",
+        "lay_price": "9",
+        "created": "05-Apr 04:14 AM"
+      },
+      {
+        "fancy": "2.1 ball run RCB",
+        "back_size": "80",
+        "back_price": "13",
+        "lay_size": "120",
+        "lay_price": "13",
+        "created": "05-Apr 04:15 AM"
+      },
+      {
+        "fancy": "3 over run RCB",
+        "back_size": "100",
+        "back_price": "29",
+        "lay_size": "100",
+        "lay_price": "28",
+        "created": "05-Apr 04:15 AM"
+      },
+      {
+        "fancy": "Only 4 over run RCB",
+        "back_size": "85",
+        "back_price": "9",
+        "lay_size": "115",
+        "lay_price": "9",
+        "created": "05-Apr 04:16 AM"
+      },
+      {
+        "fancy": "2.2 ball run RCB",
+        "back_size": "70",
+        "back_price": "17",
+        "lay_size": "100",
+        "lay_price": "17",
+        "created": "05-Apr 04:16 AM"
+      },
+      {
+        "fancy": "Only 4 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:16 AM"
+      },
+      {
+        "fancy": "2.3 ball run RCB",
+        "back_size": "60",
+        "back_price": "19",
+        "lay_size": "90",
+        "lay_price": "19",
+        "created": "05-Apr 04:16 AM"
+      },
+      {
+        "fancy": "2.4 ball run RCB",
+        "back_size": "60",
+        "back_price": "23",
+        "lay_size": "90",
+        "lay_price": "23",
+        "created": "05-Apr 04:17 AM"
+      },
+      {
+        "fancy": "3.3 over run RCB",
+        "back_size": "100",
+        "back_price": "30",
+        "lay_size": "100",
+        "lay_price": "29",
+        "created": "05-Apr 04:17 AM"
+      },
+      {
+        "fancy": "2.5 ball run RCB",
+        "back_size": "80",
+        "back_price": "24",
+        "lay_size": "120",
+        "lay_price": "24",
+        "created": "05-Apr 04:18 AM"
+      },
+      {
+        "fancy": "2.6 ball run RCB",
+        "back_size": "70",
+        "back_price": "28",
+        "lay_size": "100",
+        "lay_price": "28",
+        "created": "05-Apr 04:19 AM"
+      },
+      {
+        "fancy": "Only 5 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:19 AM"
+      },
+      {
+        "fancy": "3.1 ball run RCB",
+        "back_size": "80",
+        "back_price": "29",
+        "lay_size": "120",
+        "lay_price": "29",
+        "created": "05-Apr 04:19 AM"
+      },
+      {
+        "fancy": "5 over run RCB",
+        "back_size": "100",
+        "back_price": "41",
+        "lay_size": "100",
+        "lay_price": "40",
+        "created": "05-Apr 04:20 AM"
+      },
+      {
+        "fancy": "R Ashwin 2 over run",
+        "back_size": "100",
+        "back_price": "14",
+        "lay_size": "100",
+        "lay_price": "13",
+        "created": "05-Apr 04:20 AM"
+      },
+      {
+        "fancy": "Only 5 over run RCB",
+        "back_size": "100",
+        "back_price": "10",
+        "lay_size": "100",
+        "lay_price": "9",
+        "created": "05-Apr 04:20 AM"
+      },
+      {
+        "fancy": "3.2 ball run RCB",
+        "back_size": "60",
+        "back_price": "29",
+        "lay_size": "90",
+        "lay_price": "29",
+        "created": "05-Apr 04:21 AM"
+      },
+      {
+        "fancy": "3.3 ball run RCB",
+        "back_size": "60",
+        "back_price": "29",
+        "lay_size": "90",
+        "lay_price": "29",
+        "created": "05-Apr 04:21 AM"
+      },
+      {
+        "fancy": "3.4 ball run RCB",
+        "back_size": "50",
+        "back_price": "29",
+        "lay_size": "80",
+        "lay_price": "29",
+        "created": "05-Apr 04:22 AM"
+      },
+      {
+        "fancy": "4.3 over run RCB",
+        "back_size": "100",
+        "back_price": "35",
+        "lay_size": "100",
+        "lay_price": "34",
+        "created": "05-Apr 04:22 AM"
+      },
+      {
+        "fancy": "3.5 ball run RCB",
+        "back_size": "50",
+        "back_price": "29",
+        "lay_size": "80",
+        "lay_price": "29",
+        "created": "05-Apr 04:22 AM"
+      },
+      {
+        "fancy": "3.6 ball run RCB",
+        "back_size": "50",
+        "back_price": "30",
+        "lay_size": "80",
+        "lay_price": "30",
+        "created": "05-Apr 04:22 AM"
+      },
+      {
+        "fancy": "Only 6 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:23 AM"
+      },
+      {
+        "fancy": "4.1 ball run RCB",
+        "back_size": "60",
+        "back_price": "34",
+        "lay_size": "80",
+        "lay_price": "34",
+        "created": "05-Apr 04:23 AM"
+      },
+      {
+        "fancy": "Only 6 over run RCB",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 04:24 AM"
+      },
+      {
+        "fancy": "4.2 ball run RCB",
+        "back_size": "50",
+        "back_price": "34",
+        "lay_size": "70",
+        "lay_price": "34",
+        "created": "05-Apr 04:25 AM"
+      },
+      {
+        "fancy": "8 over run RCB",
+        "back_size": "100",
+        "back_price": "63",
+        "lay_size": "100",
+        "lay_price": "62",
+        "created": "05-Apr 04:25 AM"
+      },
+      {
+        "fancy": "4.3 ball run RCB",
+        "back_size": "50",
+        "back_price": "34",
+        "lay_size": "70",
+        "lay_price": "34",
+        "created": "05-Apr 04:26 AM"
+      },
+      {
+        "fancy": "4.4 ball run RCB",
+        "back_size": "50",
+        "back_price": "38",
+        "lay_size": "70",
+        "lay_price": "38",
+        "created": "05-Apr 04:26 AM"
+      },
+      {
+        "fancy": "5.3 over run RCB",
+        "back_size": "100",
+        "back_price": "46",
+        "lay_size": "100",
+        "lay_price": "45",
+        "created": "05-Apr 04:26 AM"
+      },
+      {
+        "fancy": "4.5 ball run RCB",
+        "back_size": "40",
+        "back_price": "39",
+        "lay_size": "60",
+        "lay_price": "39",
+        "created": "05-Apr 04:27 AM"
+      },
+      {
+        "fancy": "4.6 ball run RCB",
+        "back_size": "45",
+        "back_price": "40",
+        "lay_size": "65",
+        "lay_price": "40",
+        "created": "05-Apr 04:28 AM"
+      },
+      {
+        "fancy": "5.1 ball run RCB",
+        "back_size": "50",
+        "back_price": "41",
+        "lay_size": "70",
+        "lay_price": "41",
+        "created": "05-Apr 04:29 AM"
+      },
+      {
+        "fancy": "Only 7 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:30 AM"
+      },
+      {
+        "fancy": "7 over run RCB",
+        "back_size": "100",
+        "back_price": "57",
+        "lay_size": "100",
+        "lay_price": "56",
+        "created": "05-Apr 04:30 AM"
+      },
+      {
+        "fancy": "Only 7 over run RCB",
+        "back_size": "85",
+        "back_price": "7",
+        "lay_size": "115",
+        "lay_price": "7",
+        "created": "05-Apr 04:31 AM"
+      },
+      {
+        "fancy": "5.2 ball run RCB",
+        "back_size": "40",
+        "back_price": "41",
+        "lay_size": "60",
+        "lay_price": "41",
+        "created": "05-Apr 04:31 AM"
+      },
+      {
+        "fancy": "5.3 ball run RCB",
+        "back_size": "40",
+        "back_price": "45",
+        "lay_size": "60",
+        "lay_price": "45",
+        "created": "05-Apr 04:32 AM"
+      },
+      {
+        "fancy": "5.4 ball run RCB",
+        "back_size": "60",
+        "back_price": "46",
+        "lay_size": "80",
+        "lay_price": "46",
+        "created": "05-Apr 04:32 AM"
+      },
+      {
+        "fancy": "6.3 over run RCB",
+        "back_size": "100",
+        "back_price": "55",
+        "lay_size": "100",
+        "lay_price": "54",
+        "created": "05-Apr 04:32 AM"
+      },
+      {
+        "fancy": "5.5 ball run RCB",
+        "back_size": "40",
+        "back_price": "47",
+        "lay_size": "60",
+        "lay_price": "47",
+        "created": "05-Apr 04:33 AM"
+      },
+      {
+        "fancy": "5.6 ball run RCB",
+        "back_size": "60",
+        "back_price": "48",
+        "lay_size": "80",
+        "lay_price": "48",
+        "created": "05-Apr 04:33 AM"
+      },
+      {
+        "fancy": "6.1 ball run RCB",
+        "back_size": "30",
+        "back_price": "49",
+        "lay_size": "50",
+        "lay_price": "49",
+        "created": "05-Apr 04:34 AM"
+      },
+      {
+        "fancy": "Only 8 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:34 AM"
+      },
+      {
+        "fancy": "Y Chahal 2 over run",
+        "back_size": "140",
+        "back_price": "9",
+        "lay_size": "225",
+        "lay_price": "9",
+        "created": "05-Apr 04:35 AM"
+      },
+      {
+        "fancy": "Only 8 over run RCB",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 04:35 AM"
+      },
+      {
+        "fancy": "6.2 ball run RCB",
+        "back_size": "40",
+        "back_price": "50",
+        "lay_size": "60",
+        "lay_price": "50",
+        "created": "05-Apr 04:35 AM"
+      },
+      {
+        "fancy": "10 over run bhav RCB",
+        "back_size": "55",
+        "back_price": "75",
+        "lay_size": "75",
+        "lay_price": "75",
+        "created": "05-Apr 04:36 AM"
+      },
+      {
+        "fancy": "6.3 ball run RCB",
+        "back_size": "40",
+        "back_price": "54",
+        "lay_size": "60",
+        "lay_price": "54",
+        "created": "05-Apr 04:36 AM"
+      },
+      {
+        "fancy": "6.4 ball run RCB",
+        "back_size": "35",
+        "back_price": "54",
+        "lay_size": "55",
+        "lay_price": "54",
+        "created": "05-Apr 04:37 AM"
+      },
+      {
+        "fancy": "7.3 over run RCB",
+        "back_size": "100",
+        "back_price": "60",
+        "lay_size": "100",
+        "lay_price": "59",
+        "created": "05-Apr 04:37 AM"
+      },
+      {
+        "fancy": "6.5 ball run RCB",
+        "back_size": "30",
+        "back_price": "55",
+        "lay_size": "50",
+        "lay_price": "55",
+        "created": "05-Apr 04:37 AM"
+      },
+      {
+        "fancy": "6.6 ball run RCB",
+        "back_size": "35",
+        "back_price": "56",
+        "lay_size": "55",
+        "lay_price": "56",
+        "created": "05-Apr 04:38 AM"
+      },
+      {
+        "fancy": "Only 9 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:39 AM"
+      },
+      {
+        "fancy": "7.1 ball run RCB",
+        "back_size": "40",
+        "back_price": "56",
+        "lay_size": "60",
+        "lay_price": "56",
+        "created": "05-Apr 04:39 AM"
+      },
+      {
+        "fancy": "9 over run RCB",
+        "back_size": "140",
+        "back_price": "63",
+        "lay_size": "225",
+        "lay_price": "63",
+        "created": "05-Apr 04:40 AM"
+      },
+      {
+        "fancy": "Only 9 over run RCB",
+        "back_size": "100",
+        "back_price": "7",
+        "lay_size": "100",
+        "lay_price": "6",
+        "created": "05-Apr 04:40 AM"
+      },
+      {
+        "fancy": "V Kohli boundaries",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 04:41 AM"
+      },
+      {
+        "fancy": "2nd wkt pship boundaries RCB",
+        "back_size": "85",
+        "back_price": "3",
+        "lay_size": "115",
+        "lay_price": "3",
+        "created": "05-Apr 04:41 AM"
+      },
+      {
+        "fancy": "How many balls face by V Kohli",
+        "back_size": "90",
+        "back_price": "30",
+        "lay_size": "110",
+        "lay_price": "30",
+        "created": "05-Apr 04:42 AM"
+      },
+      {
+        "fancy": "2nd wkt lost to RCB balls",
+        "back_size": "100",
+        "back_price": "64",
+        "lay_size": "120",
+        "lay_price": "64",
+        "created": "05-Apr 04:42 AM"
+      },
+      {
+        "fancy": "V Kohli run",
+        "back_size": "90",
+        "back_price": "32",
+        "lay_size": "110",
+        "lay_price": "32",
+        "created": "05-Apr 04:42 AM"
+      },
+      {
+        "fancy": "Fall of 2nd wkt run bhav RCB",
+        "back_size": "4",
+        "back_price": "62",
+        "lay_size": "8",
+        "lay_price": "62",
+        "created": "05-Apr 04:42 AM"
+      },
+      {
+        "fancy": "N Saini 2 over run",
+        "back_size": "100",
+        "back_price": "21",
+        "lay_size": "100",
+        "lay_price": "20",
+        "created": "05-Apr 04:42 AM"
+      },
+      {
+        "fancy": "V Kohli run bhav",
+        "back_size": "4",
+        "back_price": "6",
+        "lay_size": "7",
+        "lay_price": "6",
+        "created": "05-Apr 04:43 AM"
+      },
+      {
+        "fancy": "7.2 ball run RCB",
+        "back_size": "70",
+        "back_price": "57",
+        "lay_size": "100",
+        "lay_price": "57",
+        "created": "05-Apr 04:43 AM"
+      },
+      {
+        "fancy": "7.3 ball run RCB",
+        "back_size": "50",
+        "back_price": "59",
+        "lay_size": "70",
+        "lay_price": "59",
+        "created": "05-Apr 04:44 AM"
+      },
+      {
+        "fancy": "Fall of 4th wkt RCB",
+        "back_size": "80",
+        "back_price": "112",
+        "lay_size": "100",
+        "lay_price": "112",
+        "created": "05-Apr 04:44 AM"
+      },
+      {
+        "fancy": "7.4 ball run RCB",
+        "back_size": "30",
+        "back_price": "60",
+        "lay_size": "50",
+        "lay_price": "60",
+        "created": "05-Apr 04:44 AM"
+      },
+      {
+        "fancy": "8.3 over run RCB",
+        "back_size": "100",
+        "back_price": "63",
+        "lay_size": "100",
+        "lay_price": "62",
+        "created": "05-Apr 04:44 AM"
+      },
+      {
+        "fancy": "7.5 ball run RCB",
+        "back_size": "40",
+        "back_price": "61",
+        "lay_size": "60",
+        "lay_price": "61",
+        "created": "05-Apr 04:45 AM"
+      },
+      {
+        "fancy": "7.6 ball run RCB",
+        "back_size": "30",
+        "back_price": "62",
+        "lay_size": "50",
+        "lay_price": "62",
+        "created": "05-Apr 04:46 AM"
+      },
+      {
+        "fancy": "8.1 ball run RCB",
+        "back_size": "50",
+        "back_price": "62",
+        "lay_size": "70",
+        "lay_price": "62",
+        "created": "05-Apr 04:47 AM"
+      },
+      {
+        "fancy": "Only 10 over run RCB",
+        "back_size": "100",
+        "back_price": "6",
+        "lay_size": "100",
+        "lay_price": "5",
+        "created": "05-Apr 04:48 AM"
+      },
+      {
+        "fancy": "8.2 ball run RCB",
+        "back_size": "40",
+        "back_price": "62",
+        "lay_size": "60",
+        "lay_price": "62",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "3rd wkt pship boundaries RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "8.3 ball run RCB",
+        "back_size": "35",
+        "back_price": "62",
+        "lay_size": "55",
+        "lay_price": "62",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "3rd wkt lost to RCB balls",
+        "back_size": "90",
+        "back_price": "69",
+        "lay_size": "110",
+        "lay_price": "69",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "Fall of 3rd wkt run bhav RCB",
+        "back_size": "6",
+        "back_price": "63",
+        "lay_size": "10",
+        "lay_price": "63",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "D Willey run",
+        "back_size": "100",
+        "back_price": "17",
+        "lay_size": "120",
+        "lay_price": "17",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "D Willey boundaries",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:49 AM"
+      },
+      {
+        "fancy": "Only 10 over dot ball RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:50 AM"
+      },
+      {
+        "fancy": "8.4 ball run RCB",
+        "back_size": "80",
+        "back_price": "63",
+        "lay_size": "130",
+        "lay_price": "63",
+        "created": "05-Apr 04:50 AM"
+      },
+      {
+        "fancy": "9.3 over run RCB",
+        "back_size": "100",
+        "back_price": "66",
+        "lay_size": "100",
+        "lay_price": "65",
+        "created": "05-Apr 04:50 AM"
+      },
+      {
+        "fancy": "How many balls face by D Willey",
+        "back_size": "90",
+        "back_price": "16",
+        "lay_size": "110",
+        "lay_price": "16",
+        "created": "05-Apr 04:50 AM"
+      },
+      {
+        "fancy": "D Willey run bhav",
+        "back_size": "7",
+        "back_price": "1",
+        "lay_size": "11",
+        "lay_price": "1",
+        "created": "05-Apr 04:50 AM"
+      },
+      {
+        "fancy": "8.5 ball run RCB",
+        "back_size": "90",
+        "back_price": "63",
+        "lay_size": "140",
+        "lay_price": "63",
+        "created": "05-Apr 04:52 AM"
+      },
+      {
+        "fancy": "4th wkt pship boundaries RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:53 AM"
+      },
+      {
+        "fancy": "S Rutherford run",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "120",
+        "lay_price": "22",
+        "created": "05-Apr 04:53 AM"
+      },
+      {
+        "fancy": "8.6 ball run RCB",
+        "back_size": "130",
+        "back_price": "63",
+        "lay_size": "200",
+        "lay_price": "63",
+        "created": "05-Apr 04:53 AM"
+      },
+      {
+        "fancy": "S Rutherford run bhav",
+        "back_size": "4",
+        "back_price": "6",
+        "lay_size": "7",
+        "lay_price": "6",
+        "created": "05-Apr 04:54 AM"
+      },
+      {
+        "fancy": "S Rutherford boundaries",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "100",
+        "lay_price": "2",
+        "created": "05-Apr 04:54 AM"
+      },
+      {
+        "fancy": "5th wkt pship boundaries RCB",
+        "back_size": "100",
+        "back_price": "5",
+        "lay_size": "100",
+        "lay_price": "4",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "9.1 ball run RCB",
+        "back_size": "120",
+        "back_price": "63",
+        "lay_size": "170",
+        "lay_price": "63",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "Fall of 5th wkt RCB",
+        "back_size": "90",
+        "back_price": "104",
+        "lay_size": "110",
+        "lay_price": "104",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "12 over run RCB:",
+        "back_size": "100",
+        "back_price": "87",
+        "lay_size": "100",
+        "lay_price": "86",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "How many balls face by S Rutheford",
+        "back_size": "80",
+        "back_price": "20",
+        "lay_size": "100",
+        "lay_price": "20",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "S Ahmed run",
+        "back_size": "90",
+        "back_price": "27",
+        "lay_size": "110",
+        "lay_price": "27",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "R Ashwin 3 over run",
+        "back_size": "100",
+        "back_price": "19",
+        "lay_size": "100",
+        "lay_price": "18",
+        "created": "05-Apr 04:55 AM"
+      },
+      {
+        "fancy": "How many balls face by S Ahmed",
+        "back_size": "80",
+        "back_price": "17",
+        "lay_size": "100",
+        "lay_price": "17",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "S Ahmed boundaries",
+        "back_size": "100",
+        "back_price": "4",
+        "lay_size": "100",
+        "lay_price": "3",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "Fall of 5th wkt run bhav RCB",
+        "back_size": "6",
+        "back_price": "88",
+        "lay_size": "9",
+        "lay_price": "88",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "5th wkt lost to RCB balls",
+        "back_size": "90",
+        "back_price": "76",
+        "lay_size": "110",
+        "lay_price": "76",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "Only 11 over run RCB",
+        "back_size": "80",
+        "back_price": "6",
+        "lay_size": "120",
+        "lay_price": "6",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "9.2 ball run RCB",
+        "back_size": "100",
+        "back_price": "3",
+        "lay_size": "0",
+        "lay_price": "0",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "Fall of 6th wkt RCB",
+        "back_size": "90",
+        "back_price": "135",
+        "lay_size": "110",
+        "lay_price": "135",
+        "created": "05-Apr 04:56 AM"
+      },
+      {
+        "fancy": "S Ahmed run bhav",
+        "back_size": "7",
+        "back_price": "15",
+        "lay_size": "11",
+        "lay_price": "15",
+        "created": "05-Apr 04:57 AM"
+      },
+      {
+        "fancy": "9.4 ball run RCB",
+        "back_size": "80",
+        "back_price": "66",
+        "lay_size": "130",
+        "lay_price": "66",
+        "created": "05-Apr 04:57 AM"
+      },
+      {
+        "fancy": "15 over run RCB.",
+        "back_size": "100",
+        "back_price": "123",
+        "lay_size": "100",
+        "lay_price": "122",
+        "created": "05-Apr 04:58 AM"
+      },
+      {
+        "fancy": "9.5 ball run RCB",
+        "back_size": "70",
+        "back_price": "67",
+        "lay_size": "110",
+        "lay_price": "67",
+        "created": "05-Apr 04:58 AM"
+      },
+      {
+        "fancy": "9.6 ball run RCB",
+        "back_size": "70",
+        "back_price": "68",
+        "lay_size": "110",
+        "lay_price": "68",
+        "created": "05-Apr 04:58 AM"
+      },
+      {
+        "fancy": "11.3 over run RCB.",
+        "back_size": "100",
+        "back_price": "79",
+        "lay_size": "100",
+        "lay_price": "78",
+        "created": "05-Apr 05:02 AM"
+      },
+      {
+        "fancy": "13 over run RCB.",
+        "back_size": "100",
+        "back_price": "89",
+        "lay_size": "100",
+        "lay_price": "88",
+        "created": "05-Apr 05:03 AM"
+      },
+      {
+        "fancy": "Only 13 over run RCB",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 05:03 AM"
+      },
+      {
+        "fancy": "P Krishna 3 over run",
+        "back_size": "100",
+        "back_price": "26",
+        "lay_size": "100",
+        "lay_price": "25",
+        "created": "05-Apr 05:03 AM"
+      },
+      {
+        "fancy": "20 over run RCB",
+        "back_size": "100",
+        "back_price": "171",
+        "lay_size": "100",
+        "lay_price": "170",
+        "created": "05-Apr 05:05 AM"
+      },
+      {
+        "fancy": "12.3 over run RCB.",
+        "back_size": "100",
+        "back_price": "89",
+        "lay_size": "100",
+        "lay_price": "88",
+        "created": "05-Apr 05:06 AM"
+      },
+      {
+        "fancy": "T Boult 3 over run",
+        "back_size": "100",
+        "back_price": "22",
+        "lay_size": "100",
+        "lay_price": "21",
+        "created": "05-Apr 05:09 AM"
+      },
+      {
+        "fancy": "Only 14 over run RCB",
+        "back_size": "100",
+        "back_price": "8",
+        "lay_size": "100",
+        "lay_price": "7",
+        "created": "05-Apr 05:09 AM"
+      },
+      {
+        "fancy": "13.3 over run RCB.",
+        "back_size": "100",
+        "back_price": "92",
+        "lay_size": "100",
+        "lay_price": "91",
+        "created": "05-Apr 05:11 AM"
+      },
+      {
+        "fancy": "D Karthik run",
+        "back_size": "90",
+        "back_price": "44",
+        "lay_size": "110",
+        "lay_price": "44",
+        "created": "05-Apr 05:12 AM"
+      },
+      {
+        "fancy": "D Karthik boundaries",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 05:12 AM"
+      },
+      {
+        "fancy": "16 over run RCB.",
+        "back_size": "100",
+        "back_price": "136",
+        "lay_size": "100",
+        "lay_price": "135",
+        "created": "05-Apr 05:12 AM"
+      },
+      {
+        "fancy": "6th wkt pship boundaries RCB",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 05:13 AM"
+      },
+      {
+        "fancy": "14 over run RCB.",
+        "back_size": "100",
+        "back_price": "96",
+        "lay_size": "100",
+        "lay_price": "95",
+        "created": "05-Apr 05:14 AM"
+      },
+      {
+        "fancy": "Only 15 over run RCB",
+        "back_size": "100",
+        "back_price": "9",
+        "lay_size": "100",
+        "lay_price": "8",
+        "created": "05-Apr 05:14 AM"
+      },
+      {
+        "fancy": "Only 16 over run RCB",
+        "back_size": "90",
+        "back_price": "10",
+        "lay_size": "110",
+        "lay_price": "10",
+        "created": "05-Apr 05:22 AM"
+      },
+      {
+        "fancy": "14.3 over run RCB.",
+        "back_size": "100",
+        "back_price": "116",
+        "lay_size": "100",
+        "lay_price": "115",
+        "created": "05-Apr 05:22 AM"
+      },
+      {
+        "fancy": "N Saini 3 over run",
+        "back_size": "100",
+        "back_price": "34",
+        "lay_size": "100",
+        "lay_price": "33",
+        "created": "05-Apr 05:22 AM"
+      },
+      {
+        "fancy": "17 over run RCB",
+        "back_size": "100",
+        "back_price": "146",
+        "lay_size": "100",
+        "lay_price": "145",
+        "created": "05-Apr 05:23 AM"
+      },
+      {
+        "fancy": "15.3 over run RCB.",
+        "back_size": "100",
+        "back_price": "132",
+        "lay_size": "100",
+        "lay_price": "131",
+        "created": "05-Apr 05:23 AM"
+      },
+      {
+        "fancy": "16.3 over run RCB",
+        "back_size": "100",
+        "back_price": "141",
+        "lay_size": "100",
+        "lay_price": "140",
+        "created": "05-Apr 05:32 AM"
+      }
+    ]
+  }

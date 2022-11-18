@@ -1,0 +1,174 @@
+
+###
+POST https://dev.fastline.one/api/v1/getAllAds
+
+
+###   Finished Matches Screen
+GET https://dev.fastline.one/api/v1/recentMatches HTTP/1.1
+Content-type: application/json
+
+
+###   Finished Matches Screen
+GET https://dev.fastline.one/api/v1/getAllNews HTTP/1.1
+Content-type: application/json
+
+
+###  Live Matches Screen
+GET https://dev.fastline.one/api/v1/liveMatchList HTTP/1.1
+Content-type: application/json
+
+
+###  Match Details page [get match data by match_id]
+POST https://dev.fastline.one/api/v1/liveMatch?match_id=1876 HTTP/1.1
+Content-type: application/json
+
+###  Match Details page [get match data by match_id]
+POST https://dev.fastline.one/api/v1/squadByMatchId?match_id=1876 HTTP/1.1
+Content-type: application/json
+
+###  Match Details page [get match data by match_id]
+POST https://dev.fastline.one/api/v1/scorecardByMatchId?match_id=1876 HTTP/1.1
+Content-type: application/json
+
+
+
+###  Upcomming matches data
+GET https://dev.fastline.one/api/v1/upcomingMatches HTTP/1.1
+Content-type: application/json
+
+
+
+###  Upcomming matches data
+POST http://15.206.247.12/webservices/scorecardByMatchId/aded00f5b22fbb0a8d7b81f1f4bfdcdc HTTP/1.1
+Content-type: multipart/form-data
+
+{
+    "match_id":1245
+}
+
+
+###  
+POST https://dev.fastline.one/api/v1/scorecardByMatchId?match_id=1579 HTTP/1.1
+Content-type: application/json
+
+
+###  
+POST https://dev.fastline.one/api/v1/squadByMatchId?match_id=1582 HTTP/1.1
+Content-type: application/json
+
+
+
+###  Upcomming matches data
+GET  https://dev.fastline.one/api/v1/news HTTP/1.1
+Content-type: application/json
+
+
+###  Upcomming matches data
+POST  https://dev.fastline.one/api/v1/newsDetail?news_id=1264 HTTP/1.1
+Content-type: application/json
+
+###  
+GET https://dev.fastline.one/api/v1/homeList HTTP/1.1
+Content-type: application/json
+# "match_type": "T20","match_type": "ODI","match_type": "TEST",
+
+
+///////////////////////////////////////WebServices API Proxy//////////////////////////////////////////////////////////
+
+###  
+GET https://dev.fastline.one/api/v1/recentMatches HTTP/1.1
+Content-type: application/json
+
+###  
+GET https://dev.fastline.one/api/v1/upcomingMatches HTTP/1.1
+Content-type: application/json
+
+
+###  
+GET https://dev.fastline.one/api/v1/seriesList HTTP/1.1
+Content-type: application/json
+
+###  
+GET https://dev.fastline.one/api/v1/homeList HTTP/1.1
+Content-type: application/json
+
+###  
+GET https://dev.fastline.one/api/v1/liveMatchList HTTP/1.1
+Content-type: application/json
+
+
+###  
+POST https://dev.fastline.one/api/v1/liveMatch?match_id=1907 HTTP/1.1
+Content-type: application/json
+
+
+###  
+POST https://dev.fastline.one/api/v1/scorecardByMatchId?match_id=1601 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/matchInfo?match_id=1245 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/squadByMatchId?match_id=1580 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/matchFancy?match_id=1781 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/playersByMatchId?match_id=1542 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/pointsTable?series_id=98 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/matchesBySeriesId?series_id=98 HTTP/1.1
+
+###  
+POST https://dev.fastline.one/api/v1/matchOddHistory?match_id=1244 HTTP/1.1
+
+
+
+###  
+GET https://dev.fastline.one/api/v1/news HTTP/1.1
+
+
+###  
+POST https://dev.fastline.one/api/v1/newsDetail?news_id=1528 HTTP/1.1
+
+###  
+POST https://dev.fastline.one/api/v1/playerRanking?type=10 HTTP/1.1
+
+###  
+POST https://dev.fastline.one/api/v1/pointsTable?series_id=117 HTTP/1.1
+Content-type: application/json
+
+###  
+POST https://dev.fastline.one/api/v1/matchesBySeriesId?series_id=117 HTTP/1.1
+
+### Term and condition API 
+POST https://dev.fastline.one/api/v1/getVideoList HTTP/1.1
+Content-type: application/json
+
+{
+    "keyWord": "",
+    "pageNo": 1,
+    "size": 15
+}
+
+### Term and condition API 
+POST https://dev.fastline.one/api/v1/getAllVideo HTTP/1.1
+Content-type: application/json
+
+{
+    "keyWord": "",
+    "pageNo": 1,
+    "size": 15
+}
+### Term and condition API 
+https://dev.fastline.one/api/v1/getAllAds
